@@ -3,8 +3,6 @@
 // Linl: https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true
 
 
-
-global using System;
 class Solution
 {
 
@@ -12,7 +10,7 @@ class Solution
     {
         return a + b;
     }
-    static void Main(String[] args)
+    public static void Sum(String[] args)
     {
         int val1 = Convert.ToInt32(Console.ReadLine());
         int val2 = Convert.ToInt32(Console.ReadLine());
