@@ -8,6 +8,10 @@ class Program
         // Solution.Sum(args);
         // 2.
         // Solution2.ArraySum(args);
-        Solution3.Triplets(args);
+        // 3.
+        // Solution3.Triplets(args);
+        // 4.
+        Solution4.BigSum(args);
+
     }
 }

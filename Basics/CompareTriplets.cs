@@ -1,10 +1,6 @@
-
-
-
-
-
-
-
+// Problem:Compare Triplets
+// Platform: HackerRank
+// link:https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true
 
 class Result1
 {
