@@ -7,6 +7,7 @@ class Program
         // 1.
         // Solution.Sum(args);
         // 2.
-        Solution2.ArraySum(args);
+        // Solution2.ArraySum(args);
+        Solution3.Triplets(args);
     }
 }
