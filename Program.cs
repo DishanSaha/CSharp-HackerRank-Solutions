@@ -11,7 +11,10 @@ class Program
         // 3.
         // Solution3.Triplets(args);
         // 4.
-        Solution4.BigSum(args);
+        // Solution4.BigSum(args);
+        // 5.
+        Solution5.Difference(args);
+
 
     }
 }
