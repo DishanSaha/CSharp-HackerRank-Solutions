@@ -13,7 +13,9 @@ class Program
         // 4.
         // Solution4.BigSum(args);
         // 5.
-        Solution5.Difference(args);
+        // Solution5.Difference(args);
+        // 6
+        Solution6.PlusMinus(args);
 
 
     }
