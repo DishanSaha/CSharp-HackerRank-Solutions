@@ -1,4 +1,6 @@
-
+// Problem: Staircase
+// Platform: HackerRank
+// link: https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true
 
 class Result5
 {
