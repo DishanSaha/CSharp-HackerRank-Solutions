@@ -19,7 +19,10 @@ class Program
         // 7.
         // Solution7.Staircase(args);
         // 8.
-        Solution8.MiniMaxSum(args);
+        // Solution8.MiniMaxSum(args);
+        // 9.
+        Solution9.BirthdayCakeCandles(args);
+
 
     }
 }
