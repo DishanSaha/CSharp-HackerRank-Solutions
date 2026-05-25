@@ -17,8 +17,9 @@ class Program
         // 6
         // Solution6.PlusMinus(args);
         // 7.
-        Solution7.Staircase(args);
-
+        // Solution7.Staircase(args);
+        // 8.
+        Solution8.MiniMaxSum(args);
 
     }
 }
