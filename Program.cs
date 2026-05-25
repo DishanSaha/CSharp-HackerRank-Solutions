@@ -15,7 +15,9 @@ class Program
         // 5.
         // Solution5.Difference(args);
         // 6
-        Solution6.PlusMinus(args);
+        // Solution6.PlusMinus(args);
+        // 7.
+        Solution7.Staircase(args);
 
 
     }
