@@ -21,7 +21,9 @@ class Program
         // 8.
         // Solution8.MiniMaxSum(args);
         // 9.
-        Solution9.BirthdayCakeCandles(args);
+        // Solution9.BirthdayCakeCandles(args);
+        // 10.
+        Solution10.TimeConversion(args);
 
 
     }
