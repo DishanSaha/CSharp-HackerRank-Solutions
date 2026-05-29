@@ -23,7 +23,9 @@ class Program
         // 9.
         // Solution9.BirthdayCakeCandles(args);
         // 10.
-        Solution10.TimeConversion(args);
+        // Solution10.TimeConversion(args);
+        // 11.
+        Solution11.GradingStudents(args);
 
 
     }
