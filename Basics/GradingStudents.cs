@@ -1,6 +1,6 @@
-// Problem: timeConversion
+// Problem: Grading Students
 // Platform: HackerRank
-// link:
+// link: https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true
 
 
 class Result9
@@ -19,10 +19,10 @@ class Result9
         {
             if (grades[i] >= 38)
             {
-                int multiple = ((grades[i] / 5) + 1) * 5;
-                if (multiple - grades[i] < 3)
+                int closestMultiple = ((grades[i] / 5) + 1) * 5;
+                if (closestMultiple - grades[i] < 3)
                 {
-                    grades[i] = multiple;
+                    grades[i] = closestMultiple;
                 }
             }
         }

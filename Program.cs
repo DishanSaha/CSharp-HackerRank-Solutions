@@ -25,7 +25,10 @@ class Program
         // 10.
         // Solution10.TimeConversion(args);
         // 11.
-        Solution11.GradingStudents(args);
+        // Solution11.GradingStudents(args);
+        // 12.
+        Solution12.CountApplesAndOranges(args);
+
 
 
     }
