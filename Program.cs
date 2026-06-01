@@ -29,7 +29,9 @@ class Program
         // 12.
         // Solution12.CountApplesAndOranges(args);
         // 13.
-        Solution13.Kangaroo(args);
+        // Solution13.Kangaroo(args);
+        // 14.
+        Solution14.GetTotalX(args);
 
 
 

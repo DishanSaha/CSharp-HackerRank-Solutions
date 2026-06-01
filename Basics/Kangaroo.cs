@@ -1,4 +1,4 @@
-// Problem: Count Apples and Oranges
+// Problem: Kangaroo
 // Platform: HackerRank
 // link: https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true
 
