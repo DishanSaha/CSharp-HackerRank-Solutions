@@ -1,4 +1,4 @@
-// Problem: Kangaroo
+// Problem: Get Total X
 // Platform: HackerRank
 // link: https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true
 
