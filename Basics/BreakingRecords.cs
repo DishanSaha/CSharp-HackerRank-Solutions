@@ -1,6 +1,6 @@
 // Problem: Breaking Records
 // Platform: HackerRank
-// link: 
+// link: https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true
 
 
 class Result13
@@ -15,23 +15,27 @@ class Result13
 
     public static List<int> breakingRecords(List<int> scores)
     {
-      int countHiggest = 0;
-      int countLowest = 0;
-      int maxSoFar = scores[0];
-      int minSoFar = scores[0];
-      for(int i = 0; i < scores.Count;i++){
-        if(scores[i] > maxSoFar){
-            maxSoFar = scores[i];
-            countHiggest++;
+        int countHiggest = 0;
+        int countLowest = 0;
+        int maxSoFar = scores[0];
+        int minSoFar = scores[0];
+        for (int i = 0; i < scores.Count; i++)
+        {
+            if (scores[i] > maxSoFar)
+            {
+                maxSoFar = scores[i];
+                countHiggest++;
+            }
         }
-      }
-        for(int j = 0; j < scores.Count;j++){
-        if(scores[j] < minSoFar){
-            minSoFar = scores[j];
-            countLowest++;
+        for (int j = 0; j < scores.Count; j++)
+        {
+            if (scores[j] < minSoFar)
+            {
+                minSoFar = scores[j];
+                countLowest++;
+            }
         }
-      }
-       return new List<int> { countHiggest, countLowest };
+        return new List<int> { countHiggest, countLowest };
     }
 
 }

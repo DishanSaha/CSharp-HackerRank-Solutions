@@ -33,7 +33,9 @@ class Program
         // 14.
         // Solution14.GetTotalX(args);
         // 15.
-        Solution15.BreakingRecords(args);
+        // Solution15.BreakingRecords(args);
+        // 16.
+        Solution16.Birthday(args);
 
 
 
