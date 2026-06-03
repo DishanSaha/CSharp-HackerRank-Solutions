@@ -35,8 +35,9 @@ class Program
         // 15.
         // Solution15.BreakingRecords(args);
         // 16.
-        Solution16.Birthday(args);
-
+        // Solution16.Birthday(args);
+        // 17.
+        Solution17.DivisibleSumPairs(args);
 
 
     }
