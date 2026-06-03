@@ -1,6 +1,6 @@
-// Problem: Birthday
+// Problem: Divisible Sum Pairs
 // Platform: HackerRank
-// link: 
+// link: https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true
 
 
 class Result15

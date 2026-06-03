@@ -37,7 +37,9 @@ class Program
         // 16.
         // Solution16.Birthday(args);
         // 17.
-        Solution17.DivisibleSumPairs(args);
+        // Solution17.DivisibleSumPairs(args);
+        // 18.
+        Solution18.MigratoryBirds(args);
 
 
     }
