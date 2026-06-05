@@ -39,7 +39,9 @@ class Program
         // 17.
         // Solution17.DivisibleSumPairs(args);
         // 18.
-        Solution18.MigratoryBirds(args);
+        // Solution18.MigratoryBirds(args);
+        // 19.
+        Solution19.DayOfProgrammer(args);
 
 
     }
