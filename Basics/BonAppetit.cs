@@ -1,6 +1,6 @@
-// Problem: Day of the Programmer
+// Problem: Bon Appetit
 // Platform: HackerRank
-// link: 
+// link: https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true
 
 
 class Result18
@@ -16,19 +16,22 @@ class Result18
      */
 
     public static void bonAppetit(List<int> bill, int k, int b)
-    { 
-     int sum = 0;   
-     for(int i = 0; i < bill.Count;i++){
-        sum +=bill[i];
-     }
-     int actualShare = (sum - bill[k])/2;
-     if(actualShare < b){
-        int refund = b - actualShare;
-        Console.WriteLine(refund);
-     }
-     else{
-        Console.WriteLine("Bon Appetit");
-     }
+    {
+        int sum = 0;
+        for (int i = 0; i < bill.Count; i++)
+        {
+            sum += bill[i];
+        }
+        int actualShare = (sum - bill[k]) / 2;
+        if (actualShare < b)
+        {
+            int refund = b - actualShare;
+            Console.WriteLine(refund);
+        }
+        else
+        {
+            Console.WriteLine("Bon Appetit");
+        }
     }
 
 }

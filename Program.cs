@@ -43,7 +43,9 @@ class Program
         // 19.
         // Solution19.DayOfProgrammer(args);
         // 20.
-        Solution20.BonAppetit(args);
+        // Solution20.BonAppetit(args);
+        // 21.
+        Solution21.SockMerchant(args);
 
 
     }
