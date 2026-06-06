@@ -41,7 +41,9 @@ class Program
         // 18.
         // Solution18.MigratoryBirds(args);
         // 19.
-        Solution19.DayOfProgrammer(args);
+        // Solution19.DayOfProgrammer(args);
+        // 20.
+        Solution20.BonAppetit(args);
 
 
     }
