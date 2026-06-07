@@ -45,7 +45,9 @@ class Program
         // 20.
         // Solution20.BonAppetit(args);
         // 21.
-        Solution21.SockMerchant(args);
+        // Solution21.SockMerchant(args);
+        // 22.
+        Solution22.PageCount(args);
 
 
     }
