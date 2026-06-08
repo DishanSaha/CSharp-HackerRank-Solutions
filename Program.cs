@@ -47,7 +47,9 @@ class Program
         // 21.
         // Solution21.SockMerchant(args);
         // 22.
-        Solution22.PageCount(args);
+        // Solution22.PageCount(args);
+        // 23.
+        Solution23.CountingValleys(args);
 
 
     }
