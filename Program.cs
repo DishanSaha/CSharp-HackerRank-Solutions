@@ -49,7 +49,11 @@ class Program
         // 22.
         // Solution22.PageCount(args);
         // 23.
-        Solution23.CountingValleys(args);
+        // Solution23.CountingValleys(args);
+        // 24.
+        Solution24.GetMoneySpent(args);
+
+
 
 
     }

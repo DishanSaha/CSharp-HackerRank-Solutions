@@ -1,4 +1,4 @@
-// Problem: Sock Merchant
+// Problem: Page Count
 // Platform: HackerRank
 // link: https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true
 

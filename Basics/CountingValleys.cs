@@ -1,4 +1,4 @@
-// Problem: Page Count
+// Problem: Counting Valleys
 // Platform: HackerRank
 // link: https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true
 
@@ -19,17 +19,21 @@ class Result21
     {
         int altitude = 0;
         int valleyCount = 0;
-        for(int i = 0; i < path.Length; i++){
-        int previousAltitude = altitude;
-        if(path[i] == 'D'){
-            altitude--;
-        }
-        else if( path[i] == 'U'){
-            altitude++;
-        }
-        if(previousAltitude < 0 && altitude == 0){
-            valleyCount++;
-        }
+        for (int i = 0; i < path.Length; i++)
+        {
+            int previousAltitude = altitude;
+            if (path[i] == 'D')
+            {
+                altitude--;
+            }
+            else if (path[i] == 'U')
+            {
+                altitude++;
+            }
+            if (previousAltitude < 0 && altitude == 0)
+            {
+                valleyCount++;
+            }
         }
         return valleyCount;
 

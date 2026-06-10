@@ -1,6 +1,6 @@
-// Problem: Bon Appetit
+// Problem: Sock Merchant
 // Platform: HackerRank
-// link: 
+// link: https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true
 
 
 class Result19
