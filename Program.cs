@@ -51,7 +51,9 @@ class Program
         // 23.
         // Solution23.CountingValleys(args);
         // 24.
-        Solution24.GetMoneySpent(args);
+        // Solution24.GetMoneySpent(args);
+        // 25.
+        Solution25.CatAndMouse(args);
 
 
 
