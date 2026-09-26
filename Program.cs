@@ -53,7 +53,9 @@ class Program
         // 24.
         // Solution24.GetMoneySpent(args);
         // 25.
-        Solution25.CatAndMouse(args);
+        // Solution25.CatAndMouse(args);
+        // 26.
+         Solution26.MagicSquare(args);
 
 
 
