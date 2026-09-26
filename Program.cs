@@ -55,7 +55,9 @@ class Program
         // 25.
         // Solution25.CatAndMouse(args);
         // 26.
-         Solution26.MagicSquare(args);
+        //  Solution26.MagicSquare(args);
+        // 27.
+        Solution27.PickNumbers(args);
 
 
 
