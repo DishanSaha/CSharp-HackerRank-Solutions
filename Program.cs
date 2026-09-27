@@ -57,7 +57,9 @@ class Program
         // 26.
         //  Solution26.MagicSquare(args);
         // 27.
-        Solution27.PickNumbers(args);
+        // Solution27.PickNumbers(args);
+        // 28.
+        Solution28.CLimbLeaderBoard(args);
 
 
 
