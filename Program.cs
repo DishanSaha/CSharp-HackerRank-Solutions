@@ -59,7 +59,9 @@ class Program
         // 27.
         // Solution27.PickNumbers(args);
         // 28.
-        Solution28.CLimbLeaderBoard(args);
+        // Solution28.CLimbLeaderBoard(args);
+        // 29.
+        Solution29.HurdleRace(args);
 
 
 
