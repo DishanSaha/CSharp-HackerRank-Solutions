@@ -61,7 +61,10 @@ class Program
         // 28.
         // Solution28.CLimbLeaderBoard(args);
         // 29.
-        Solution29.HurdleRace(args);
+        // Solution29.HurdleRace(args);
+        // 30.
+        Solution30.DesignerPdfViewer(args);
+
 
 
 
