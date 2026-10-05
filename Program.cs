@@ -65,7 +65,9 @@ class Program
         // 30.
         // Solution30.DesignerPdfViewer(args);
         // 31.
-        Solution31.UtopianTree(args);
+        // Solution31.UtopianTree(args);
+        // 32.
+        Solution32.AngryProfessor(args);
 
 
 
