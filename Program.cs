@@ -67,7 +67,9 @@ class Program
         // 31.
         // Solution31.UtopianTree(args);
         // 32.
-        Solution32.AngryProfessor(args);
+        // Solution32.AngryProfessor(args);
+        // 33.
+        Solution33.BeautifulDay(args);
 
 
 
