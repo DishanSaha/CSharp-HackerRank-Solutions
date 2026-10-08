@@ -69,7 +69,10 @@ class Program
         // 32.
         // Solution32.AngryProfessor(args);
         // 33.
-        Solution33.BeautifulDay(args);
+        // Solution33.BeautifulDay(args);
+        // 34.
+        Solution34.ViralAdvertise(args);
+
 
 
 
