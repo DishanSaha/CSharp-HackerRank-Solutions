@@ -71,7 +71,9 @@ class Program
         // 33.
         // Solution33.BeautifulDay(args);
         // 34.
-        Solution34.ViralAdvertise(args);
+        // Solution34.ViralAdvertise(args);
+        // 35.
+        Solution35.SaveThePrisoner(args);
 
 
 
