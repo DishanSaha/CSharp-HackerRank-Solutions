@@ -73,7 +73,9 @@ class Program
         // 34.
         // Solution34.ViralAdvertise(args);
         // 35.
-        Solution35.SaveThePrisoner(args);
+        // Solution35.SaveThePrisoner(args);
+        // 36.
+        Solution36.CircularArrayRotation(args);
 
 
 
